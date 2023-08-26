@@ -5,4 +5,4 @@ Candy Crush Saga is a hit mobile game developed by King (part of Activision|Bliz
 
 Candy Crush has more than 3000 levels, and new ones are added every week. That is a lot of levels! And with that many levels, it's important to get level difficulty just right. Too easy and the game gets boring, too hard and players become frustrated and quit playing.
 
-In this project, we will see how we can use data collected from players to estimate level difficulty. Let's start by loading in the packages we're going to need.
+In this project, we will see how we can use data collected from players to estimate level difficulty.
